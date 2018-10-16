@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of The Smuggler: (Vol's I-III), by 
+The Project Gutenberg EBook of The Smuggler: (Vol's I-III), by
 G. P. R. (George Payne Rainsford James
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -13,6 +13,7 @@ Title: The Smuggler: (Vol's I-III)
 Author: G. P. R. (George Payne Rainsford James
 
 Release Date: April 24, 2012 [EBook #39531]
+Last Updated: December 12, 2017
 
 Language: English
 
@@ -1857,7 +1858,7 @@ settled upon her, to her brother Sir Robert, without taking any
 security whatsoever for principal or interest; and she was always
 ready, when there was anything in her purse, to give it away to the
 worthy or unworthy--rather, indeed, preferring the latter, from a
-conviction that they were more likely to be destitute of friends than,
+conviction that they were more likely to be destitute of friends than
 those who had some claim upon society.
 
 Nevertheless Mrs. Barbara Croyland was not altogether without that
@@ -2170,7 +2171,7 @@ Many a remarkable scene has undoubtedly passed in the courts and halls
 of that now ruined building, and it is even probable that there the
 dark and dreadful deed, which, though probably not of his contriving,
 embittered the latter life of the second Henry, was planned and
-determined by the murderers of Thomas-à Becket. With such deeds,
+determined by the murderers of Thomas à Becket. With such deeds,
 however, and those ancient times, we have nothing here to do; and at
 the period to which this tale refers, the castle, though in a much
 more perfect state than at present, was already in ruins. The park,
@@ -3530,7 +3531,7 @@ His look said more than his words; and Zara fixed her eyes upon his
 face for an instant with an inquiring glance. The expression then
 suddenly changed to one of bright intelligence, and she answered, "I
 will make you give me his name to-morrow, Sir Edward. Not now--not
-mow! I shall forget it."
+now! I shall forget it."
 
 Sir Edward Digby was not slow in taking a hint; and he consequently
 made no attempt to bring the conversation back to the subject which
@@ -4022,7 +4023,7 @@ any one; but I thought that as there was no chance of my ever being
 driven to marry him, I could bear the infliction of his conversation
 better than my poor sister."
 
-"The motive was a land one, at all events," replied Sir Edward Digby;
+"The motive was a kind one, at all events," replied Sir Edward Digby;
 "but then I may firmly believe that there is no chance whatever of
 Miss Croyland giving her hand to Richard Radford?"
 
@@ -7487,7 +7488,7 @@ escape.
 
 "I found I couldn't come to-morrow morning," he said, "and so I rode
 down to-night. It's all settled for to-morrow, and by this time
-Harding's at sea, He'll keep over on the other side till the sun is
+Harding's at sea. He'll keep over on the other side till the sun is
 low; and we must be ready for work by ten, though I don't think he'll
 get close in before midnight."
 
@@ -8004,7 +8005,7 @@ district, with orders to put down smuggling therein, it might be a
 different matter; but I have not."
 
 "Ay, I thought there was a mistake about it," replied Miles; "but here
-is your horse, sir I shall see you to-morrow, then?"
+is your horse, sir. I shall see you to-morrow, then?"
 
 "Certainly," answered the officer; and having paid his score, he
 mounted and rode away.
@@ -8154,7 +8155,7 @@ proposed, and the goods carried clear off before we can reach them. It
 seems to me, therefore, better for you to let the landing take place
 quietly. As soon as it has taken place, the beacons will be lighted by
 my orders; the very fact of a signal they don't understand will throw
-the smugglers into some confusion; and they will harry out of the
+the smugglers into some confusion; and they will hurry out of the
 Marsh as fast as possible----"
 
 "But suppose they separate, and all take different roads," said Mowle.
@@ -8915,7 +8916,7 @@ many men have you got with you, Mr. Radford?"
 "Why, well nigh upon two hundred," answered Ned Ramley, for his
 comrade.
 
-"All, then you'll do," answered Harding, with a laugh; "but still you
+"Ah, then you'll do," answered Harding, with a laugh; "but still you
 won't be the worse for some more. So I and some of the lads will see
 you safe across the Marsh. The Customs have got nothing at sea about
 here; so the boats will be safe enough."
@@ -8995,7 +8996,7 @@ have to risk a shot or two; but that does not much matter."
 
 "And what do you call prudent, Harding?" asked young Radford, in a
 wonderfully calm tone, considering his vehement temperament, and the
-excitement of the adventure in which he was engaged; "how would von
+excitement of the adventure in which he was engaged; "how would you
 have me act, when I do get out of the Marsh?"
 
 "Why, that seems clear enough," replied the smuggler. "I would send
@@ -18424,7 +18425,7 @@ were pure.
 
 
 
-End of the Project Gutenberg EBook of The Smuggler: (Vol's I-III), by 
+End of the Project Gutenberg EBook of The Smuggler: (Vol's I-III), by
 G. P. R. (George Payne Rainsford James
 
 *** END OF THIS PROJECT GUTENBERG EBOOK THE SMUGGLER: (VOL'S I-III) ***
